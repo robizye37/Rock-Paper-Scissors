@@ -1,0 +1,12 @@
+Display the rules of the game to the player.
+Ask the player to choose rock, paper, or scissors.
+Generate a random choice (rock, paper, or scissors) for the computer.
+Compare the player's choice to the computer's choice to determine the winner:
+a. If the player chose rock and the computer chose scissors, the player wins.
+b. If the player chose paper and the computer chose rock, the player wins.
+c. If the player chose scissors and the computer chose paper, the player wins.
+d. If the player and the computer chose the same thing, it's a tie.
+e. Otherwise, the computer wins.
+Display the winner of the game.
+Ask the player if they want to play again.
+If the player wants to play again, go back to step 2. If not, end the game.
